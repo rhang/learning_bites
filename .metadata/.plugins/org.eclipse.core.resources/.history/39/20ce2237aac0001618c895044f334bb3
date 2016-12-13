@@ -1,0 +1,15 @@
+
+public class publicclass {
+	public static void main (String[] args){
+		int a= 3, b = 5, c= 9;
+		
+		a = b + c - a;
+		System.out.println("a: "+ a);
+		a = a + b;
+		System.out.println("a: " + a);
+		a = b = 1;
+		System.out.println("a: " + a + " , b: " + b);
+		
+		
+	}
+}

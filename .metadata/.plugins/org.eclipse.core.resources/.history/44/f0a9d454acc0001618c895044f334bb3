@@ -1,0 +1,14 @@
+
+public class Application {
+
+	public static void main(String[] args) {
+		int myNumber;
+		myNumber= 88;
+		double myNumber2= 88.5;
+		
+		System.out.println(myNumber);
+		
+
+	}
+
+}

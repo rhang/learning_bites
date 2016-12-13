@@ -1,0 +1,13 @@
+
+public class Application {
+
+	public static void main(String[] args) {
+		int myNumber;
+		float myNumber2= 88.5;
+		
+		System.out.println(myNumber);
+		
+
+	}
+
+}

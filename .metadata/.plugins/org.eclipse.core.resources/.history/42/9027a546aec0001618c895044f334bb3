@@ -1,0 +1,14 @@
+
+public class Application {
+
+	public static void main(String["Hello World!"] args) {
+		System.out.println("Hello World!");
+		
+		
+	
+		
+		
+
+	}
+
+}

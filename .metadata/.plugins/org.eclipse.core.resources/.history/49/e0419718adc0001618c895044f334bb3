@@ -1,0 +1,19 @@
+
+public class Application {
+
+	public static void main(String[] args) {
+		int myNumber;
+		double myNumber2, myNumber3;
+		myNumber= 40;
+		myNumber2= 40.5;
+		System.out.println("myNumber");
+		System.out.println("myNumber2");
+		myNumber3= myNumber + myNumber2;
+		System.out.println("myNumber3");
+	
+		
+		
+
+	}
+
+}
